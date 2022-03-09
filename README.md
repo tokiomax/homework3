@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>My First Page by Max S</title>
+
 </head>
 
 <body>
